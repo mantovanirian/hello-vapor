@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/mantovanirian/Workspace/100 Days of Code/hello-vapor/.build/checkouts/crypto.git--1759361251304398547/Sources/CCryptoOpenSSL/include"
+    export *
+}

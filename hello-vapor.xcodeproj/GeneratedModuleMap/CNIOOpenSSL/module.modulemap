@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/mantovanirian/Workspace/100 Days of Code/hello-vapor/.build/checkouts/swift-nio-ssl.git--7927461827625644334/Sources/CNIOOpenSSL/include"
+    export *
+}
